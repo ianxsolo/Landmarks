@@ -1,3 +1,3 @@
-#  Landmark
+#  Landmarks
 
-Landmark Swift application
+Landmarks Swift application
