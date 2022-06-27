@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B91ADD7C286A1BB000756D1B /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91ADD7B286A1BB000756D1B /* LandmarkSettings.swift */; };
 		B91FE38E285CE02F00EE2F3D /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91FE38D285CE02F00EE2F3D /* PageControl.swift */; };
 		B91FE3942860A67100EE2F3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B91FE3932860A67100EE2F3D /* Assets.xcassets */; };
 		B91FE39A2860A67200EE2F3D /* WatchLandmarks WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B91FE3992860A67200EE2F3D /* WatchLandmarks WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -145,6 +146,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B91ADD7B286A1BB000756D1B /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 		B91FE38D285CE02F00EE2F3D /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		B91FE3912860A66F00EE2F3D /* WatchLandmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchLandmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B91FE3932860A67100EE2F3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -431,6 +433,7 @@
 				B9FA43B12869E89400F05AF4 /* Preview Content */,
 				B9FA43C42869EAB900F05AF4 /* LandmarkDetail.swift */,
 				B975E15C286A00160013C367 /* LandmarkCommands.swift */,
+				B91ADD7B286A1BB000756D1B /* LandmarkSettings.swift */,
 			);
 			path = MacLandmarks;
 			sourceTree = "<group>";
@@ -786,6 +789,7 @@
 			files = (
 				B9FA43BF2869E98900F05AF4 /* Landmark.swift in Sources */,
 				B9FA43AE2869E89200F05AF4 /* ContentView.swift in Sources */,
+				B91ADD7C286A1BB000756D1B /* LandmarkSettings.swift in Sources */,
 				B9FA43B82869E98900F05AF4 /* FavoriteButton.swift in Sources */,
 				B9FA43BE2869E98900F05AF4 /* LandmarkRow.swift in Sources */,
 				B975E15E286A00160013C367 /* LandmarkCommands.swift in Sources */,
